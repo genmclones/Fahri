@@ -53,7 +53,7 @@ Cara Instalasi
 
 Clone repository
 
-git clone https://github.com/username/face-recognition-attendance.git
+git clone hhttps://github.com/genmclones/Fahri
 cd face-recognition-attendance
 
 
